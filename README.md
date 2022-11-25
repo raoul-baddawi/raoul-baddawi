@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raoul-baddawi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on Pro-Bono Web projects
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning CSS.
+- 💞️ I’m looking to collaborate on Pro-Bono Web projects.
 - 📫 Drop me an email at raoulbaddawi1@gmail.com
 
 <!---
